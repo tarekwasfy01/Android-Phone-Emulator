@@ -3,6 +3,9 @@
 A modern Android emulator for Windows with a realistic phone interface.
 
 Unlike the standard Android Emulator UI, Android Phone Emulator embeds the Android display into a custom device frame, providing a clean and intuitive user experience for testing Android applications.
+## Download here:
+
+https://github.com/tarekwasfy01/Android-Phone-Emulator/releases/download/AndroidPhoneEmulator/AndroidPhoneEmulator_Setup_1.0.0.0.exe
 
 ## Features
 📱 Realistic phone-style interface
